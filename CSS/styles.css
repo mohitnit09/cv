@@ -1,0 +1,30 @@
+body
+{
+  background-color: #f1d1d1;
+  color:#00263b;
+  font-size:1.2rem;
+}
+
+hr {
+border-style: none;
+border-top-style: dotted;
+border-width: 3px;
+
+}
+h1,h2,h3{
+  color:#45046a;
+  text-decoration:inherit;
+}
+.emoji:hover{
+  background-color: red;
+}
+
+h2,h3:hover
+{
+background-color: #86c4ba;
+}
+h1{
+  margin-bottom: 0;
+  padding-bottom: 0;
+  border-bottom: 0;
+}
